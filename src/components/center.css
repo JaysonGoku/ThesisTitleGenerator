@@ -1,0 +1,49 @@
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: black;
+  width: 45rem;
+  height: 30rem;
+  box-shadow: 0 0 5px rgb(66, 66, 66);
+  border-radius: 10px;
+  position: relative;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.box .thesis {
+  margin-bottom: 30px;
+  font-size: 50px;
+  text-align: center;
+  text-transform: uppercase;
+  color: rgb(19, 19, 19);
+  font-weight: 700;
+}
+.box button {
+  padding: 5px 10px 5px 10px;
+  border-radius: 25px;
+  font-weight: 700;
+  background: linear-gradient(180deg, #bed630, #0db04b);
+  cursor: pointer;
+  position: absolute;
+  bottom: 5px;
+}
+.descrip {
+  text-align: center;
+  font-size: 18px;
+  width: 600px;
+}
+
+@media (max-width: 720px) {
+  .box {
+    width: 25rem;
+    height: 15rem;
+  }
+  .box .thesis {
+    font-size: 30px;
+  }
+  .descrip {
+    width: 300px;
+  }
+}
