@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ThesisTitleGenerator/static/css/main.9be9bccd.css",
+    "main.js": "/ThesisTitleGenerator/static/js/main.b1cf64db.js",
+    "static/js/787.c3073711.chunk.js": "/ThesisTitleGenerator/static/js/787.c3073711.chunk.js",
+    "index.html": "/ThesisTitleGenerator/index.html",
+    "main.9be9bccd.css.map": "/ThesisTitleGenerator/static/css/main.9be9bccd.css.map",
+    "main.b1cf64db.js.map": "/ThesisTitleGenerator/static/js/main.b1cf64db.js.map",
+    "787.c3073711.chunk.js.map": "/ThesisTitleGenerator/static/js/787.c3073711.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9be9bccd.css",
+    "static/js/main.b1cf64db.js"
+  ]
+}
